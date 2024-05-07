@@ -10,7 +10,7 @@ Funcionalidade: Pedidos
 
         Dado que estou na pagina principal da starbugs
             E que iniciei a compra do item "Expresso Tradicional"
-        Quando faço a busca do seguinte CEP: "11410420"
+        Quando faço a busca do seguinte CEP: "13940970"
             E informo os demais dados do endereço:
                 | number  | 180 |
                 | details | 31  |
